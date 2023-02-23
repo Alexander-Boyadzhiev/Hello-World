@@ -1,2 +1,2 @@
 # Hello-World
-First repo for TUES class
+First repo for a class in TUES
